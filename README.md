@@ -13,9 +13,9 @@ La dirección observaba una baja generalizada en los ingresos sin conocer el ori
 
 -----
 
-### 📖 **La Historia del Dato (Narrativa del Analista)**
+### 📖 **La Historia del Dato**
 
-> "Este proyecto empezó con una simple pregunta: *¿Por qué están cayendo las ventas?* Al principio, la tendencia parecía generalizada. Sin embargo, al modelar la data con foco en la geografía y las interacciones del cliente, el dashboard comenzó a 'hablar'. El punto de inflexión fue la segmentación por continente, donde la luz de alerta se encendió sobre **Alemania**. El análisis de las series de tiempo y los recuentos de clientes reveló que el problema no era de rendimiento de producto, sino de una **fuga masiva en ese mercado clave**. Transformamos una vaga preocupación sobre 'ventas bajas' en el diagnóstico preciso de un problema de retención, proporcionando un *insight* que requería una intervención estratégica inmediata."
+> "Este proyecto empezó con una simple pregunta: *¿Por qué están cayendo las ventas?* Al principio, no se sabía de donde venía esta caída. Tras hacerle unas cuantas preguntas a la Base de datos (qué, dónde, quién, cuándo) empezaron a salir pistas. Al centrar el foco en la geografía y las interacciones del cliente, el dashboard comenzó a 'hablar'. El punto de inflexión fue la segmentación por continente, donde la luz de alerta se encendió sobre **Alemania**. El análisis de las series de tiempo y los recuentos de clientes reveló que el problema no era de rendimiento de producto, sino de una **fuga masiva en una empresa en concreto**. Transformamos una vaga preocupación sobre 'ventas bajas' en el diagnóstico preciso de un problema de retención, proporcionando un *insight* que requería una intervención estratégica inmediata."
 
 -----
 
@@ -46,8 +46,6 @@ El dashboard fue diseñado para una exploración exhaustiva antes del diagnósti
 -----
 
 ### ✨ **Logros y Resultados (Valor y Perfil Profesional)**
-
-El proyecto demuestra un perfil profesional que combina la precisión técnica con una entrega de valor clara.
 
   * **Impacto Cuantificable y Diagnóstico:** El análisis proporcionó un diagnóstico inmediato sobre la causa del problema, **cuantificando su impacto en el 4% de las ventas totales**, permitiendo enfocar los recursos hacia la retención de clientes en un mercado específico.
   * **Amplitud Analítica y Reporting Base:** El dashboard se consolidó como una **herramienta integral de *reporting*** que ofrece una visión completa de la estacionalidad, rendimiento de productos y eficacia de los canales digitales.
@@ -89,20 +87,8 @@ Este proyecto sienta las bases para futuras iniciativas de inteligencia de negoc
 
 -----
 
-### ⚙️ **Estructura del Repositorio**
-
-```
-ITA-S8---Power-BI/
-├── .gitignore              # Archivo estándar de ignorados de Git.
-├── S8 - Elian Daghoum.pdf  # Informe final y visualizaciones.
-├── Tarea 8.pdf             # Documento de contexto o requisitos de la tarea.
-└── README.md               # Este documento de presentación del proyecto.
-```
-
------
-
 ### 🤝 **Contacto**
 
   * **Desarrollador:** Elian Daghoum
-  * **Perfil de GitHub:** [Tu Enlace de Perfil de GitHub, si quieres incluirlo]
-  * **LinkedIn/Contacto:** [Tu Enlace a LinkedIn o correo profesional]
+  * **Perfil de GitHub:** https://github.com/Elian-digital
+  * **LinkedIn/Contacto:** https://www.linkedin.com/in/eliandaghoum/
