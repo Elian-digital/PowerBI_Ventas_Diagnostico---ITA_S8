@@ -1,5 +1,5 @@
 
-## 🚀 **Análisis Forense de Ventas e Identificación de Fuga de Clientes | Proyecto End-to-End con Power BI (ITAcademy)**
+## 🚀 **Sales Diagnosis & Churn Analysis: Identifying Revenue Leakage | Proyecto End-to-End con Power BI (ITAcademy)**
 
 Este proyecto es un **análisis de diagnóstico y estrategia *End-to-End*** que abordó la caída de ventas en un comercio online. El análisis aplicó habilidades avanzadas de **Modelado de Datos** y **Diseño de Información** para descubrir la causa raíz cuantificable: la pérdida masiva de clientes en el mercado alemán.
 
