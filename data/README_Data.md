@@ -7,6 +7,10 @@ Esta carpeta contiene la información técnica sobre las fuentes de datos utiliz
 ## 📊 Estructura del Modelo de Datos
 El proyecto utiliza un **Modelo en Estrella (Star Schema)** con una tabla de granularidad intermedia para optimizar el rendimiento de las consultas DAX y facilitar la escalabilidad.
 
+![Modelo de Datos en Estrella](https://github.com/Elian-digital/Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png?raw=true)
+
+El proyecto utiliza un **Modelo en Estrella (Star Schema)**...
+
 ### 1. Tablas de Hechos (Fact Tables)
 * **`transactions`**: Es la tabla de hechos central que contiene el histórico de transacciones, importes (`amount`), fechas y geolocalización. Es la base para los cálculos de **Ingresos** y detección de transacciones declinadas.
 * **`Pedidos`**: Actúa como tabla de vinculación (*bridge*) para conectar las transacciones con los productos específicos, permitiendo un análisis detallado a nivel de ítem.
