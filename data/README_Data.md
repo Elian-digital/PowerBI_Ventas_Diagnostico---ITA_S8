@@ -7,7 +7,7 @@ Esta carpeta contiene la información técnica sobre las fuentes de datos utiliz
 ## 📊 Estructura del Modelo de Datos
 El proyecto utiliza un **Modelo en Estrella (Star Schema)** con una tabla de granularidad intermedia para optimizar el rendimiento de las consultas DAX y facilitar la escalabilidad.
 
-![Modelo de Datos en Estrella]([https://github.com/Elian-digital/Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png?raw=true](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png))
+![Modelo de Datos en Estrella]([[https://github.com/Elian-digital/Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png?raw=true](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png)](https://github.com/Elian-digital/PowerBI_Sales-Diagnosis-Churn-Analysis/blob/main/assets/data_model_schema.png?raw=true))
 
 El proyecto utiliza un **Modelo en Estrella (Star Schema)**...
 
